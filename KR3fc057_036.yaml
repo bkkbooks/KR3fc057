@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 麻麥菽答黍右行第二行第四行左行乃以左行上下相約得六十二為等數以約上位得五以約下位得三得左行菽五斗負答三斗正是菽五當答三如下圖麻麥菽答黍右行第二行第四行左行次以左行去第二行菽位法以左行菽五除第二行
+  hash: sha256:37d4095b14c6e0a52793e1d2cd54fa80069cc3cfe4807b6a40a5cb0e8264e90a
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:495bf0d34c82095b9e58378ebfaec9348a18491dc308a71f2068515a214f9667

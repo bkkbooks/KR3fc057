@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘第四行得麻十七斗負麥五十一斗負菽七百三十一斗正荅三百七十四斗負以異減同加左行左行餘麥五十五斗負菽七百三十五斗正荅三百九十七斗負又倍第四行得麻二斗負麥六斗負菽八十六斗正荅四十四斗負以同減異加第二行第二行餘麥五斗負菽九十五斗正荅五十三斗負如下圖麻麥菽荅黍右行第二行第四行左行次以第二行去左行頭位法以第二行麥五除左行麥五十五得十一乃以十一徧乘第二行得麥五十五斗負菽一千四十五斗正荅五百八十三負以同減異加左行左行餘菽三百一十斗負荅一百八十六斗正如下圖
+  hash: sha256:a4b0b7660651ef7144bc37b16c00251872dced5417069d1c762fd7b8793dc3b4
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:00fbc77db69ce466cb6f70e1fc65300e9c2531fd0cb2376f2e82eeed9ae64a2b

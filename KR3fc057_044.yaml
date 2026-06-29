@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左行次以左行去右行答位以左行倍之得菽十斗負答六斗正以異減同加右行右行餘菽十斗負答空黍五斗正又各以五約之得菽二斗負答空黍一斗正如下圖麻麥菽答黍右行第二行第四行左行次以右行去第二行下位先倍右行以同減異加第二行第二行餘麥一斗負菽二斗負答二斗正如下圖麻麥菽答黍右行
+  hash: sha256:d8253a24a8cdc87905bb9a54edaf90ee09895430835f2fefd2f1ae996b0665ce
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:fed8e94161081aa7b9ec1b50da0b63bb93e21f504634aa1bece78f6605e767f2

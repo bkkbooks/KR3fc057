@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 麻麥菽答黍右行第二行第四行左行次以第四行去第二行下位先以第四行四之乃以同減異加第二行第二行餘麻四斗正麥七斗負上得四下得七是為麻四當麥七是為相當之率舉矣如下圖麻麥菽答黍右行第二行第四行左行
+  hash: sha256:f7f76e397f06b5f6ad70851feb8c0d45f203d465ef6e80100232aa75121e3439
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:a432417e3fc19c91165821ae269f8e7cdf841c28915d5ba8ab9d7b03645f0846

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二行第三行第四行左行又以減左行下位不足減乃止法置左行下位九十五以第三行下位四除之得二十三不盡三乃以二十三遍乘第三行得麻二十三斗正麥空菽九十二斗正答六十九斗負黍空錢九十二正以同減異加左行左行餘麻二十二斗負麥三斗正菽九十斗負答七十七斗正黍五斗正錢三正如下圖麻麥菽答黍錢右行第二行第三行
+  hash: sha256:18067e9dd1c807fd44d33892538b6625e6208f33c903b48e3499b174997aac09
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:548d9cce61bd1eeccd677c05bc6f7d629946a6e7f107e46efdf15554d21202d6

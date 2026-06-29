@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斗負答三百一十七斗正黍二十斗正下空既減訖廢去第三行不用如下圖麻麥菽答黍右行第二行第四行左行次以第四行去左行下位以第四行下位四除左行下位二十得五乃以五遍乘第四行得麻一百三十斗負麥二十五斗正菽五百四十五斗負答四百六十五斗正黍二十斗正以同減異加左行左行餘麻三十三斗正麥十三斗負菽一百七十三斗正答一百四十八斗負下空如下圖麻麥菽答黍右行第二行
+  hash: sha256:c4e7c20801dc707e935f6de6fbe06eae11c52955b28d595db5cefcbb2b8eb9ad
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:4e7ce0c2374ee9fc992efbb4606133906c1ce33d5e4929f93a56566ba3f22b28

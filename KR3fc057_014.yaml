@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二行第三行第四行左行先以第四行減第三行第三行餘麻一斗麥空菽四斗答三斗負黍空下實四正如下圖麻麥菽答黍錢第二行第三行第四行左行次以第三行去右行及第二行第四行下位先去
+  hash: sha256:4903727b568749c7648b788572336f17c0327875c4bbad6d797f7614053d0784
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:d814e863d9dceddee379dcb8e22b8ad25b4bf91d4097186cf2000366be0f0659

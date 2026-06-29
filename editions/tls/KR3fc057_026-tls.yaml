@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正黍四斗正以同減異加第四行第四行餘麻二十六斗負麥三斗負菽三斗正荅三十七斗正下空如下圖麻麥菽荅黍右行第二行第四行左行次以第二行減第四行及左行頭位先以第二行同減異加第四行第四行餘麻一斗負麥三斗負菽四十三斗正荅二十二斗負又以第二行異減同加左行左行餘麻十四斗正麥十三斗負菽一百三十三斗正荅八十九斗負如下圖麻麥菽荅黍右行第二行
+  hash: sha256:03582f33adbad5f78823f39b3dee65bfd6d1849f025549b81d785e5b8b28492e
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:9058b89d549e7ef57c156d6659c09baae18002192ed27b837d19bab841be2a68

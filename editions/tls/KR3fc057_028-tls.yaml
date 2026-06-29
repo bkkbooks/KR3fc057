@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第四行左行次以第四行減左行菽位不足減乃止法以第四行菽四十三除左行菽一百三十三得三不盡四乃以三徧乘第四行得麻三斗負麥九斗負菽一百二十九斗正荅六十六斗負以同減異加左行左行餘麻十七斗正麥四斗負菽四斗正荅二十三斗負如下圖麻麥菽荅黍右行第二行第四行左行次以左行減第二行頭位此是異減同加減訖第二行餘麻八斗負麥四斗負菽三十六斗負荅三十六
+  hash: sha256:fef0b9f9e76c9e9b9ee236dad1aeda25c7aea66be59ff6a8763735c2ca552760
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:d0b644ef4d7245e60fb88c3c9c01138b707dbea5c682f149b138a75f6e47ca93

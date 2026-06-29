@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左行次以第四行去左行及第二行頭位先以十七遍
+  hash: sha256:59e1b19d8552ce8db7a280a465213a01d520e33d119e0019e78ea842ae2e0af1
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:763896b6e9f3f8559bc538120234e55f8c21bf71267cc06bd74a2cb3b0972cd7

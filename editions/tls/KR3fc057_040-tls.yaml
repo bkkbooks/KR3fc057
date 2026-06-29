@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右行第二行第四行左行次以右行減第二行頭位不足減乃止法倍右行得麥四斗正菽六斗負荅二斗負黍二斗正以異減同加第二行第二行餘麥一斗負菽六斗負荅二斗正黍二斗正如下圖麻麥菽荅黍右行第二行第四行左行次以第二行去右行頭位以第二行倍之得麥二斗
+  hash: sha256:1df4e0e22e24923866bcc16c16b8dc171bf5af25afc85002e173e1f3671d5c0c
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:b10c28e2fe213d50556954ba3924bee1694db1ae699e061860e20a4bc901b43d

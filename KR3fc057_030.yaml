@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斗正如下圖麻麥菽答黍右行第二行第四行左行右第二行餘可再半即以四除之得麻二斗負麥一斗負菽九斗負答九斗正如下圖麻麥菽答黍右行第二行第四行
+  hash: sha256:2282d45f56976a048fb86bc6c7df488dc2fde3f881905ddf6ef84dc4bd1e9a5d
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:e553e36f055313d2d93a7df1af91588f705f3aeb1bdb76304162d998fa773ee2

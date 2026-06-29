@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc057/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊術以舊術為之先置第三第四行麻麥菽答黍實以第四行減第三行餘麻一正菽四正答三負實四正以第三行反減第四行去其頭位餘麥五負菽五負答一十五正黍四正實一百四正次置弟二行
+  hash: sha256:740617503128cae379fa8a2bc26a7e1a6ad1dc17eb935d6da9f9f2851ca17e4a
+metadata:
+  title: 方程新術草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc057.xml
+hash: sha256:9dc3fd54d5c1665d5cd8868821c17af52b5fc626595555912b57c981fa99d26a
