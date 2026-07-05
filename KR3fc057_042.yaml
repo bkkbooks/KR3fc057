@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 負菽一十二斗負答四斗正黍四斗正以異減同加右行右行餘菽十五斗負答三斗正黍五斗正如下圖麻麥菽答黍右行第二行第四行左行次以左行去右行頭位先以左行三之得菽十五斗負答九斗正以同減異加右行右行餘答六斗負黍五斗正是為答六當黍五如下圖麻麥菽答黍右行第二行第四行
-  hash: sha256:dadb86c6a0508df9994fb68d747a7dd964eff506dced2aa03017bdc0912b01eb
+  text: 負菽一十二斗負荅四斗正黍四斗正以異減同加右行右行餘菽十五斗負荅三斗正黍五斗正如下圖麻麥菽荅黍右行第二行第四行左行次以左行去右行頭位先以左行三之得菽十五斗負荅九斗正以同減異加右行右行餘荅六斗負黍五斗正是為荅六當黍五如下圖麻麥菽荅黍右行第二行第四行
+  hash: sha256:6f951b40b057ae8f55f33162b3eddbb08a71a1adb73d4c644779657165b9c628
 metadata:
   title: 方程新術草
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc057.xml
-hash: sha256:76ff9ebfcb5e37b4cbc2b40dc19a3dc6ac984fa6ee333a6fb74985e14493bb35
+hash: sha256:ae6c1f66fff8d7b78eaa7f3018a6f6a9a54a8bf3c777f40f9ed6e0100dffc527
